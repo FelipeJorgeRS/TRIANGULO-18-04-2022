@@ -14,7 +14,7 @@ class Main {
     System.out.print("Digite o valor do lado C :  ");
     int ladoC = leitor.nextInt();
 
-    // PROCESSAMNTO e SAÍDAS e 
+    // PROCESSAMNTO e SAÍDAS
   
     if (ladoA ==ladoB && ladoB ==ladoC)
     { System.out.println("Triangulo Equilátero");
